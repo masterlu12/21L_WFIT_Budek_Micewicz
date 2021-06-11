@@ -1,6 +1,6 @@
 #Radosław Budek 310798
 #Jelizawieta Micewicz 311063
-
+https://github.com/masterlu12/21L_WFIT_Budek_Micewicz
 import matplotlib.pyplot as plt
 import numpy as np
 
